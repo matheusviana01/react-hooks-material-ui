@@ -1,0 +1,26 @@
+.calculator-display {
+  background-color: #cccccc;
+  height: 100px;
+}
+
+.display-operation {
+  height: 30px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.display-operation-text {
+  font-size: 24px;
+  padding: 4px;
+}
+
+.display-result {
+  height: 70px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.display-result-text {
+  font-size: 60px;
+  padding: 4px;
+}
